@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-09)
+## Unreleased (2026-10-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fd1dbfa`](https://github.com/stdlib-js/stdlib/commit/fd1dbfa095f890255a123be9ebd5c4c33538c1fe) - **test:** migrate `stats/incr/nanme` to ULP-based assertions [(#15876)](https://github.com/stdlib-js/stdlib/pull/15876) _(by Athan Reines)_
 -   [`d913a08`](https://github.com/stdlib-js/stdlib/commit/d913a0850ee27d632bff75090164e507b3d9b9c2) - **feat:** add `stats/incr/nanme` [(#6077)](https://github.com/stdlib-js/stdlib/pull/6077) _(by Sanchay Ketan Sinha, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Sanchay Ketan Sinha
 
